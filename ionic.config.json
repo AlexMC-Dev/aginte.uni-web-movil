@@ -1,0 +1,7 @@
+{
+  "name": "aginteapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
